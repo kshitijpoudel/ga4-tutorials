@@ -1,15 +1,14 @@
-# GA4 Tutorial Series - Events
+# GA4 Tutorial Series - Custom Events
 
-This folder contains the code used in
-the[Measure user activity with recommended events video](https://www.youtube.com/watch?v=PEPb3uaVILk)
-on YouTube
+This folder contains the code used in the
+[Custom Events tutorial video](https://youtu.be/QmEOPuJr05w) on YouTube
 
 ## How to Run this Version
 
 The local server requires [Deno](https://deno.land)
 
 Once Deno is installed, you can run the local web server with the following
-command from this folder [/tutorials/2-events](/tutorials/2-events):
+command from this folder [/tutorials/3-events](/tutorials/3-custom-events):
 
 ```
 deno run --allow-net --allow-read ./src/index.ts
